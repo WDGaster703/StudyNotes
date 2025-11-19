@@ -1,0 +1,79 @@
+\contentsline {section}{\numberline {1}随机过程}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}随机过程的数字特征}{1}{subsection.1.1}%
+\contentsline {paragraph}{数学期望}{1}{paragraph*.2}%
+\contentsline {paragraph}{方差}{1}{paragraph*.3}%
+\contentsline {paragraph}{自相关函数}{1}{paragraph*.4}%
+\contentsline {paragraph}{自协方差函数}{1}{paragraph*.5}%
+\contentsline {subsection}{\numberline {1.2}随机过程的性质}{2}{subsection.1.2}%
+\contentsline {paragraph}{平稳性}{2}{paragraph*.6}%
+\contentsline {paragraph}{遍历性（各态历经性）}{2}{paragraph*.7}%
+\contentsline {subsection}{\numberline {1.3}随机积分}{2}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}均方微积分}{2}{subsubsection.1.3.1}%
+\contentsline {paragraph}{均方极限}{2}{paragraph*.8}%
+\contentsline {paragraph}{均方极限的性质}{2}{paragraph*.9}%
+\contentsline {paragraph}{均方连续}{3}{paragraph*.10}%
+\contentsline {paragraph}{均方可微}{3}{paragraph*.11}%
+\contentsline {paragraph}{均方导数的性质}{3}{paragraph*.12}%
+\contentsline {paragraph}{均方积分}{3}{paragraph*.13}%
+\contentsline {paragraph}{均方积分的性质}{3}{paragraph*.14}%
+\contentsline {subsubsection}{\numberline {1.3.2}伊藤（Ito）积分}{4}{subsubsection.1.3.2}%
+\contentsline {paragraph}{伊藤积分的性质}{4}{paragraph*.15}%
+\contentsline {paragraph}{伊藤过程随机微分}{4}{paragraph*.16}%
+\contentsline {subsubsection}{\numberline {1.3.3}不同随机积分的比较}{5}{subsubsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.4}随机过程}{5}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}高斯（Gauss）过程}{5}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}马尔科夫（Markov）过程}{5}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}独立增量过程}{6}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}维纳（Wiener）过程}{6}{subsubsection.1.4.4}%
+\contentsline {subsubsection}{\numberline {1.4.5}白噪声过程}{6}{subsubsection.1.4.5}%
+\contentsline {section}{\numberline {2}随机系统的数学模型}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}连续系统}{7}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}状态空间表达式}{7}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}数字特征}{7}{subsubsection.2.1.2}%
+\contentsline {paragraph}{均值}{7}{paragraph*.17}%
+\contentsline {paragraph}{协方差}{7}{paragraph*.18}%
+\contentsline {subsection}{\numberline {2.2}离散系统}{8}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}状态空间表达式}{8}{subsubsection.2.2.1}%
+\contentsline {section}{\numberline {3}随机系统的分析}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}连续系统输入为白噪声时的分析}{9}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}时域解}{9}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}数字特征}{9}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}连续系统平稳过程的分析}{10}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}时域解}{10}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}数字特征}{10}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}功率谱密度}{10}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}连续系统附加噪声为有色噪声时的分析}{10}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}增广法求解}{11}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}谱分解和谱表示定理}{11}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}离散系统方程与连续系统方程的转化}{11}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}连续过程离散化}{11}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}离散过程稠密化}{12}{subsubsection.3.4.2}%
+\contentsline {section}{\numberline {4}随机系统的综合}{13}{section.4}%
+\contentsline {subsection}{\numberline {4.1}参数最优问题}{13}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}最优系统传递函数问题}{13}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}最小方差控制律问题}{14}{subsection.4.3}%
+\contentsline {section}{\numberline {5}状态估计}{16}{section.5}%
+\contentsline {paragraph}{维纳滤波的不足之处}{16}{paragraph*.19}%
+\contentsline {subsection}{\numberline {5.1}离散时间线性系统的Kalman滤波}{16}{subsection.5.1}%
+\contentsline {paragraph}{根据n与j的关系，状态估计问题分为}{16}{paragraph*.20}%
+\contentsline {subsubsection}{\numberline {5.1.1}一步预测估计}{16}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}滤波增益矩阵}{17}{subsubsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.3}一般情况下的Kalman滤波算法}{18}{subsubsection.5.1.3}%
+\contentsline {paragraph}{变换状态方程}{18}{paragraph*.21}%
+\contentsline {paragraph}{导出随机向量偏差方程}{19}{paragraph*.22}%
+\contentsline {paragraph}{滤波算法的推广}{19}{paragraph*.23}%
+\contentsline {subsubsection}{\numberline {5.1.4}有色噪声下的离散Kalman滤波}{19}{subsubsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.2}连续时间线性系统的Kalman滤波}{21}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}滤波基本方程}{21}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}预测估计基本方程}{22}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}一般情况下的Kalman滤波算法}{22}{subsubsection.5.2.3}%
+\contentsline {subsubsection}{\numberline {5.2.4}有声噪声情况下的连续Kalman滤波}{23}{subsubsection.5.2.4}%
+\contentsline {subsubsection}{\numberline {5.2.5}平稳Kalman滤波}{24}{subsubsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.3}状态估计问题和控制问题的对偶关系}{24}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Kalman滤波器的性能分析}{25}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}稳定性}{25}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}模型误差}{26}{subsubsection.5.4.2}%
+\contentsline {subsubsection}{\numberline {5.4.3}发散}{26}{subsubsection.5.4.3}%
+\contentsline {paragraph}{次优滤波器}{26}{paragraph*.24}%
+\contentsline {paragraph}{自适应滤波}{27}{paragraph*.25}%
+\contentsline {paragraph}{平方根滤波算法}{27}{paragraph*.26}%
